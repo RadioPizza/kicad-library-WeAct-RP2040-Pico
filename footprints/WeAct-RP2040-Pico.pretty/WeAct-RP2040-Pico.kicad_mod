@@ -573,7 +573,7 @@
 		(uuid "151cbccd-6c93-4a9e-8aa7-788da2948aa3")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/Oleg/Documents/KiCad/10.0/3dmodels/WeAct-RP2040-Pico.step"
+	(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_kriechi_kicad-library-WeAct-RP2040-Pico/WeAct-RP2040-Pico.step"
 		(offset
 			(xyz -140.77 63.47 2.38)
 		)
